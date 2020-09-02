@@ -27,8 +27,8 @@ function accum(s) {
   let str = s[0];
   
   for (i = 1; i < s.length; i++){
-    count++
-    str = str + '-'
+    count++;
+    str = str + '-';
     for(k = 0; k <= count; k++){
       str+=s[i];
     }
@@ -36,9 +36,9 @@ function accum(s) {
   
   let up = str.toLowerCase().split('-').map(function (el){
     return el[0].toUpperCase() + el.substr(1);
-  }) 
+  });
       
-  return up.join('-')
+  return up.join('-');
 }
 ```
 
