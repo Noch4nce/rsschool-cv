@@ -6,8 +6,8 @@
 ## Contact Info:
 
 * Discord: Nochance#3547
-* vk: https://vk.com/id56037713
-* Git: @Noch4nce
+* vk: [id56037713](https://vk.com/id56037713)
+* Git: [@Noch4nce](https://github.com/Noch4nce)
 
 ## Summary:
 
